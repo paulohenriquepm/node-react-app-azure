@@ -10,7 +10,7 @@
 2. Change into the directory that was cloned and run npm install
 
 ```bash
-  cd node-react-app-azure<br />
+  cd node-react-app-azure
   npm install
 ```
 
@@ -50,9 +50,6 @@ npm build
 mv build server
 ```
 Everything in the `server` folder is what is needed in production.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ## Deploying to Azure 
 
