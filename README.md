@@ -40,7 +40,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 [http://localhost:3000/login](http://localhost:3000/login)
 
-![alt text](https://imgur.com/SKagFOL)
+![alt text](https://imgur.com/SKagFOL.png)
 
 ## Building for Production
 
