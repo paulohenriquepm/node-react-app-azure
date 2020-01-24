@@ -18,7 +18,7 @@ export default function Home() {
   return(
     <>
       <h1>Home Page</h1>
-      <span>Esta mensagem está vindo do backend: {home}</span>
+      <span>This message is comming from Express Server: {home}</span>
     </>
   )
 }
