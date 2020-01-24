@@ -18,7 +18,7 @@ export default function Login() {
   return(
     <>
       <h1>Login Page</h1>
-      <span>Esta mensagem está vindo do backend: {login}</span>
+      <span>This message is comming from Express Server: {login}</span>
     </>
   )
 }
