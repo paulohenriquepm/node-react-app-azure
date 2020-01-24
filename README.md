@@ -41,7 +41,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 First of all, you need to change the baseURL of axios API in `src/services/Api.js` <br />
 to your web app link.
 
-![alt text](https://imgur.com/cVVVOmM)
+![alt text](https://imgur.com/cVVVOmM.png)
 
 Now, you need to build your React App and move the folder into `server` folder
 
@@ -58,10 +58,10 @@ You will also see any lint errors in the console.
 
 To be able to do this, we will use the **Azure App Service** extension on VSCode
 
-![alt text](https://imgur.com/oiujxco)
+![alt text](https://imgur.com/oiujxco.png)
 
 You will be asked to login with your azure account <br />
 Once you done that, click in the up blue arrow and browse to the `server` folder <br />
 Then select the app service that you want to deploy.
 
-![alt text](https://imgur.com/fAfrqYm)
+![alt text](https://imgur.com/fAfrqYm.png)
