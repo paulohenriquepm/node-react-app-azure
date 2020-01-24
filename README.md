@@ -12,6 +12,8 @@
 ```bash
   cd node-react-app-azure
   npm install
+  cd server
+  npm install
 ```
 
 ## Running the App
@@ -34,7 +36,11 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![alt text](https://imgur.com/7wZ1YD7.png)
+![alt text](https://imgur.com/vzmXXDk.png)
+
+[http://localhost:3000/login](http://localhost:3000/login)
+
+![alt text](https://imgur.com/SKagFOL)
 
 ## Building for Production
 
